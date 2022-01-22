@@ -1,3 +1,4 @@
+import PlotANewGraph from "@felvin-search-apps/plot-a-new-graph";
 import ConvertToRoman from "@felvin-search-apps/convert-to-roman";
 import HttpStatusCodes from "@felvin-search-apps/http-status-codes";
 import AddressPincodes from "@felvin-search-apps/address-pincodes";
@@ -60,6 +61,7 @@ import Tetris from "@felvin-search-apps/tetris";
 import CourierTracker from "@felvin-search-apps/courier-tracker";
 
 const allApps = [
+  PlotANewGraph,
   ConvertToRoman,
   HttpStatusCodes,
   AddressPincodes,

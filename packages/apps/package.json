@@ -57,6 +57,7 @@
     "@felvin-search-apps/merge-pdfs": "^1.43.0",
     "@felvin-search-apps/metronome": "^1.11.0",
     "@felvin-search-apps/morse-code-generator": "^1.49.0",
+    "@felvin-search-apps/plot-a-new-graph": "^1.0.0",
     "@felvin-search-apps/pokedex": "^1.39.0",
     "@felvin-search-apps/qr-code-generator": "^1.39.0",
     "@felvin-search-apps/random-string-generator": "^1.32.0",
